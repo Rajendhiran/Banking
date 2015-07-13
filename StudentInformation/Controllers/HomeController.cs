@@ -19,6 +19,8 @@ namespace StudentInformation.Controllers
         {
             ViewBag.Message = "Your app description page.";
 
+            string name = "sugnaya";
+
             return View();
         }
 
